@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sillydummy27-bot.github.io/Test-Website/sitemap.xml
